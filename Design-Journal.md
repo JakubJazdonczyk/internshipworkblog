@@ -5,12 +5,16 @@ Design Journal for Introduction to Communication Design
 
 Week 1
 -------
+* Markdown
 
 Week 2
 -------
+* Cave Painting and Illuminated Manuscripts
 
 Week 3
 -------
+* Guttenberg and Moveable Type
+* IxD Project 02 – Group Presentation
 
 Week 4
 -------
