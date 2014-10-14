@@ -60,6 +60,19 @@ Within design and art work The Golden Ratio is used to produce aesthetically ple
 
 ![Imgur](http://i.imgur.com/Luewqek.jpg)
 
+####EXAMPLES OF GOLDEN RATIO USE
+Twitter redesigned their logo In 2010, Twitter’s creative director Doug Bowman posted this screen grab on its Flickr page to explain how the company used the golden ratio in its redesign. 
+
+>"To anyone curious about #NewTwitter proportions, know that we didn't leave those ratios to chance,"
+
+![Imgur](http://i.imgur.com/6j29HHf.jpg)
+
+####STEFEN SAGMEISTER
+Stefen Sagmeiter, the eccentric designer created a logo for the Seed Media Group. In which the used the golden ratio and elements of nature (phyllotaxis) to create a simplistic yet complicated logo. By using different colours he created different variations of the logo, such as portraits for employee’s business cards. As this week I was focusing on the design fundamental point, I was very captivated by his work.
+
+![Imgur](http://i.imgur.com/34FVBBv.jpg)
+
+(to be continued)
 
 
 
