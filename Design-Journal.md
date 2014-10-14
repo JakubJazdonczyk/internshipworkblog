@@ -52,7 +52,9 @@ Graffiti is a modern day equivalent to the thousands of years old cave paintings
 ![Imgur](http://i.imgur.com/Y3hiKq6.jpg)
 
 ####THE GOLDEN RATIO
-->1.61803398875<-
+
+#####1.61803398875
+
 The golden ratio was another topic that was covered during this week’s lecture, something that I had very little knowledge about. I didn’t know how much the golden ratio was used within the design world; for example in the shapes of postcards, posters, wide-screen televisions, photographs.
 Within design and art work The Golden Ratio is used to produce aesthetically pleasing, natural looking compositions. It is a mathematical rule that has been used for at least 4,000 years. The Golden ratio is a common sight in nature, such as the centre of a flower which is subject to the Fibonacci sequence; the seeds start from the centre and spread outwards. Pine cones are also arranges in the similar spiral pattern. Shells and fossils are also a natural matter that follows the golden ratio; which takes on the form of the logarithmic spiral. The golden Ratio, Also known as the Golden Mean, The Golden Section and also the Greek letter of Phi, the golden rule describes the relationship between two proportions. The golden ratio follows a 1:1:61 ratio which when used results in art and design work that appears entirely in proportion. 
 
