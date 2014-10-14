@@ -13,11 +13,29 @@ Week 2
 
 During this week’s lecture a vast amount of content was covered. When I walked out of the lecture I felt as if my brain was overflowing with new knowledge about these topics. The subjects of the lecture this week was about the historical Cave Paintings of our prehistoric selves, the golden ratio, illuminated manuscripts, and how modern day artists were inspired by previous artists work. I had very little understanding and knowledge about most of these topics so it was all new to me. 
 
-ALBUM COVERS
+##ALBUM COVERS
 This morning’s lecture initiated by looking at album covers that had been influenced by old artwork. One of them was the Chemical Brothers album ‘We Are the Night’ which was released in 2007; it’s album artwork was very similar to the piece Lonely Politician by the artist named Herbert Bayer in 1932.
 
 [Imgur](http://i.imgur.com/tO2L3Ok.jpg) 
 [Imgur](http://i.imgur.com/6BHkyXT.jpg)
+
+Another example of this is the classic work of art by the Japanese artist Hosukai which is a woodblock print which was created between 1830 - 1833 and the album artwork by the band Keane which was released in 2006, It is pretty obvious that the album artwork was inspired by the Japanese art, as the horses correspond with the shape of the waves.
+
+(pic)
+
+##CAVE PAINTINGS
+Stick-figured paintings of animals to stencilled outlines of hands, cave paintings and illustrations found within cave walls and ceilings.  The earliest known cave painting was found approximately 40,000 years ago; which dated back to the Aurignacian period which was found in Spain in the El Castillo Cave in Cantabria. It is still unknown to us why these cave paintings where created, but I figured it was to capture their memories and experiences, also that it is suggested that they were a way of communicating to others who visited the caves and for religious and ceremonial occasions.
+
+[Imgur](http://i.imgur.com/gmTQ7CY.jpg)
+
+##THE REOCCURRING THEME
+The cave paintings have a similar reoccurrence of animal paintings, such as; horses, bison and deer. They also consist of hand stencils made by blowing pigment on a hand that is held against the wall. As well as the more obvious paintings, they used a more abstract technique called Finger fluting, which are lines that fingers leave on a soft surface such as clay or moonmilk. The earliest cave paintings were made up of red dots on the cave walls, which is possibly one of the earliest cases of pointillism. The dots were produced by covering the right palm with wet red ochre and pressing it against the wall, this relates to the design fundamental “point” which we had been learning this week. “Earth pigments” used in cave paintings consisted of the red and yellow ochre, hematite, manganese oxide and charcoal.
+
+
+
+
+
+
 
 Week 3
 -------
