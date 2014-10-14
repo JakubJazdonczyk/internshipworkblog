@@ -40,7 +40,7 @@ Tools were created and used to help create the paintings, such as; the use of ho
 
 ###CAVE PAINTINGS AND PICASSO
 
->>"We have learned nothing in twelve thousand years."
+>"We have learned nothing in twelve thousand years."
 
 Pablo Picasso was inspired and influenced by Cave Paintings to create the outstanding piece “Guernica” as you can see that he has used similar styles and abstract forms. Picasso came across the striking paintings in a cave in south-western France that dated way back to the Ice Age. He was so fascinated by the painting that he used the style in his work
 
