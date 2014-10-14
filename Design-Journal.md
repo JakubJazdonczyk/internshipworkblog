@@ -16,8 +16,8 @@ During this week’s lecture a vast amount of content was covered. When I walked
 ####ALBUM COVERS
 This morning’s lecture initiated by looking at album covers that had been influenced by old artwork. One of them was the Chemical Brothers album ‘We Are the Night’ which was released in 2007; it’s album artwork was very similar to the piece Lonely Politician by the artist named Herbert Bayer in 1932.
 
-[Imgur](http://i.imgur.com/tO2L3Ok.jpg) 
-[Imgur](http://i.imgur.com/6BHkyXT.jpg)
+![Imgur](http://i.imgur.com/tO2L3Ok.jpg) 
+![Imgur](http://i.imgur.com/6BHkyXT.jpg)
 
 Another example of this is the classic work of art by the Japanese artist Hosukai which is a woodblock print which was created between 1830 - 1833 and the album artwork by the band Keane which was released in 2006, It is pretty obvious that the album artwork was inspired by the Japanese art, as the horses correspond with the shape of the waves.
 
@@ -26,17 +26,17 @@ Another example of this is the classic work of art by the Japanese artist Hosuka
 ####CAVE PAINTINGS
 Stick-figured paintings of animals to stencilled outlines of hands, cave paintings and illustrations found within cave walls and ceilings.  The earliest known cave painting was found approximately 40,000 years ago; which dated back to the Aurignacian period which was found in Spain in the El Castillo Cave in Cantabria. It is still unknown to us why these cave paintings where created, but I figured it was to capture their memories and experiences, also that it is suggested that they were a way of communicating to others who visited the caves and for religious and ceremonial occasions.
 
-[Imgur](http://i.imgur.com/gmTQ7CY.jpg)
+![Imgur](http://i.imgur.com/gmTQ7CY.jpg)
 
 ####THE REOCCURRING THEME
 The cave paintings have a similar reoccurrence of animal paintings, such as; horses, bison and deer. They also consist of hand stencils made by blowing pigment on a hand that is held against the wall. As well as the more obvious paintings, they used a more abstract technique called Finger fluting, which are lines that fingers leave on a soft surface such as clay or moonmilk. The earliest cave paintings were made up of red dots on the cave walls, which is possibly one of the earliest cases of pointillism. The dots were produced by covering the right palm with wet red ochre and pressing it against the wall, this relates to the design fundamental “point” which we had been learning this week. “Earth pigments” used in cave paintings consisted of the red and yellow ochre, hematite, manganese oxide and charcoal.
 
-[Imgur](http://i.imgur.com/FOB6FO6.jpg)
+![Imgur](http://i.imgur.com/FOB6FO6.jpg)
 
 ####PAINTING TECHNIQUES
 Tools were created and used to help create the paintings, such as; the use of horse hair to create a brush to apply paint to the walls, twigs to make linear marks and feathers to blend colours. A blinding material such as saliva or fat was used to trap pigment into the porous wall, so once it dried it was stuck which kept the cave paintings intact. Other methods of applying the pigment were by blowing, dabbing and smearing onto the cave wall.
 
-[Imgur](http://i.imgur.com/YeXeUAe.jpg)
+![Imgur](http://i.imgur.com/YeXeUAe.jpg)
 
 ####CAVE PAINTINGS AND PICASSO
 
@@ -44,7 +44,7 @@ Tools were created and used to help create the paintings, such as; the use of ho
 
 Pablo Picasso was inspired and influenced by Cave Paintings to create the outstanding piece “Guernica” as you can see that he has used similar styles and abstract forms. Picasso came across the striking paintings in a cave in south-western France that dated way back to the Ice Age. He was so fascinated by the painting that he used the style in his work
 
-[Imgur](http://i.imgur.com/POLfb7C.jpg)
+![Imgur](http://i.imgur.com/POLfb7C.jpg)
 
 ####Modern day cave painters
 Graffiti is a modern day equivalent to the thousands of years old cave paintings. One of the most well-known graffiti artists is a British artist by the name of Banksy. Also being an artist he is a political activist which brings attention to his work as he displays this in cunning ways for the world to see. One of his most recent works of art was a Mural that had been painted overnight in Clacton-on-Sea, a week away from a parliamentary byelection. It removed has it was seen as offensive and racist.
