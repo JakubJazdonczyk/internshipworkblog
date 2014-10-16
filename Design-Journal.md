@@ -16,8 +16,7 @@ During this week’s lecture a vast amount of content was covered. When I walked
 ####ALBUM COVERS
 This morning’s lecture initiated by looking at album covers that had been influenced by old artwork. One of them was the Chemical Brothers album ‘We Are the Night’ which was released in 2007; it’s album artwork was very similar to the piece Lonely Politician by the artist named Herbert Bayer in 1932.
 
-![Imgur](http://i.imgur.com/tO2L3Ok.jpg) 
-![Imgur](http://i.imgur.com/6BHkyXT.jpg)
+![Imgur](http://i.imgur.com/qAtJC2k.jpg)
 
 Another example of this is the classic work of art by the Japanese artist Hosukai which is a woodblock print which was created between 1830 - 1833 and the album artwork by the band Keane which was released in 2006, It is pretty obvious that the album artwork was inspired by the Japanese art, as the horses correspond with the shape of the waves.
 
