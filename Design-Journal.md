@@ -12,8 +12,7 @@ We studied various designers such as; Dieter Rams and Jonathan Ive. Both designe
 
 > "I believe designers should eliminate the unnecessary. That means eliminating everything that is modish because this kind of thing is only short-lived." - Deiter Rams
 
-
-pic
+![Imgur](http://i.imgur.com/gFn86Er.jpg)
 
 
 
