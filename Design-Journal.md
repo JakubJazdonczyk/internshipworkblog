@@ -14,6 +14,21 @@ We studied various designers such as; Dieter Rams and Jonathan Ive. Both designe
 
 ![Imgur](http://i.imgur.com/gFn86Er.jpg)
 
+####MARKDOWN 
+
+During the first week of the course we were introduced to the basics of two essential tools used for the interaction design world; Atom and Markdown.  Atom is a free text editor created by Github used to code such languages as Markdown. Markdown was easy enough to understand, which was pretty good as I am new coding. We were given a project to familiarise ourselves with the program. We had the task change some text into markdown to match a PDF document. 
+PDF file we were given:
+
+![Imgur](http://i.imgur.com/5GDPfc3.jpg)
+
+This is a screen shot of my code and markdown preview on Atom after I converted the text, I rendered the plain text into, headings, emboldened text, italicised text, and listed.
+
+![Imgur](http://i.imgur.com/QPKNOBO.jpg)
+
+I could not get it to be identical to the PDF file as that would require CSS, which I have not learnt as of yet. This is my final outcome:
+
+
+
 
 
 
