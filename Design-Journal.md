@@ -127,6 +127,10 @@ Stefen Sagmeiter, the eccentric designer created a logo for the Seed Media Group
 
 (to be continued)
 
+####GITHUB
+Getting GitHub up and running was quite confusing and intimidating at the start, then Tim helped explain all the ins and outs of the git repository web-based hosting service and it’s vocabulary, such as ‘repo’, ’forking’, ’pull’ and ‘push’. We created new accounts after learning some of the basics, and forked Tim’s ‘Hello World’ page from his account so we could modify it to create our own versions of the page.
+I have been trying to educate myself html in my spare time, as I was completely new to it when joining this course, so I kind of understood what I was undertaking. The first thing we changed was our avatars, we simply done that by copy and pasting our Twitter profile image links into the index file. The next step was to link up our social media sits and GitHub pages to the icons Tim already constructed for us, all we had to do is add in the links.
+Before writing about ourselves for our pages, we had to research the self-promotion of other designers and their blogs and websites, by reading the ‘about me’ section and see how they pitched themselves to the world. 
 
 
 Week 3
