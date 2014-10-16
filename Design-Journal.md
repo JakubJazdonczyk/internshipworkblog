@@ -6,9 +6,13 @@ Design Journal for Introduction to Communication Design
 Week 1
 -------
 
-On our first lecture of the module ‘Communication design’, we covered a vast amount of what we would be doing in forthcoming weeks.
+On our first lecture of the module ‘Communication design’, I found it rather interesting, as it was about the actual history of design, which I think is a very important aspect to be learning as it will help inspire and guide me to be a better designer. Throughout the lecture a vast amount was covered of what we would be doing in forthcoming weeks.
 
 We studied various designers such as; Dieter Rams and Jonathan Ive. Both designers were inspired by the past and they used it to define their impending projects. Dieter Rams is a German industrial designer who was popular midst the 1950’s. He believed that less is more when it came to design, which I completely agree with his statement as the most iconic products out there have a very simplistic design. If he hadn’t come across the Ulm School of design he would have never fashioned such a simplistic and iconic design for Braun Radio. Jonathan Ive, the designer for the first  iMac, iPod and present Apple products hadn’t known about Dieter Rams he wouldn’t have been able to come up with such designs that we all know today. I find their work truly impeccable as it is so simplistic, which makes the products so easily understood and has made them so well known worldwide.
+
+pic
+
+
 
 
 Week 2
