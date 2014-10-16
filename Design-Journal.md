@@ -5,11 +5,14 @@ Design Journal for Introduction to Communication Design
 
 Week 1
 -------
-* Markdown
+
+On our first lecture of the module ‘Communication design’, we covered a vast amount of what we would be doing in forthcoming weeks.
+
+We studied various designers such as; Dieter Rams and Jonathan Ive. Both designers were inspired by the past and they used it to define their impending projects. Dieter Rams is a German industrial designer who was popular midst the 1950’s. He believed that less is more when it came to design, which I completely agree with his statement as the most iconic products out there have a very simplistic design. If he hadn’t come across the Ulm School of design he would have never fashioned such a simplistic and iconic design for Braun Radio. Jonathan Ive, the designer for the first  iMac, iPod and present Apple products hadn’t known about Dieter Rams he wouldn’t have been able to come up with such designs that we all know today. I find their work truly impeccable as it is so simplistic, which makes the products so easily understood and has made them so well known worldwide.
+
 
 Week 2
 -------
-* Cave Painting and Illuminated Manuscripts
 
 During this week’s lecture a vast amount of content was covered. When I walked out of the lecture I felt as if my brain was overflowing with new knowledge about these topics. The subjects of the lecture this week was about the historical Cave Paintings of our prehistoric selves, the golden ratio, illuminated manuscripts, and how modern day artists were inspired by previous artists work. I had very little understanding and knowledge about most of these topics so it was all new to me. 
 
