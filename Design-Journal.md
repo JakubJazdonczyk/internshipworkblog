@@ -43,7 +43,7 @@ Pablo Picasso was inspired and influenced by Cave Paintings to create the outsta
 
 ![Imgur](http://i.imgur.com/POLfb7C.jpg)
 
-####Modern day cave painters
+####MODERN DAY PAINTERS
 Graffiti is a modern day equivalent to the thousands of years old cave paintings. One of the most well-known graffiti artists is a British artist by the name of Banksy. Also being an artist he is a political activist which brings attention to his work as he displays this in cunning ways for the world to see. One of his most recent works of art was a Mural that had been painted overnight in Clacton-on-Sea, a week away from a parliamentary byelection. It removed has it was seen as offensive and racist.
 
 ![Imgur](http://i.imgur.com/Y3hiKq6.jpg)
