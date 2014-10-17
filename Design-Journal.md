@@ -159,7 +159,7 @@ One of the designers I researched was [Craig Mod] (http://craigmod.com/about/), 
 
 Jessica Hische is an inspirational typographer and graphic designer. Jessica's about section is a long page with a large quantity of text that consists of links to her work and other relating sites to her information. I like how she has titled her about section, as she has made it humorous and relatable. I also like how she has came across as friendly by saying “who I am, what I do, and why we should be friends”
 
-[Imgur](http://i.imgur.com/wNRBUeW.jpg)
+![Imgur](http://i.imgur.com/wNRBUeW.jpg)
 
 ####MY 'ABOUT ME'
 
