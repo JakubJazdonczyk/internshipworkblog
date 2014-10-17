@@ -126,7 +126,8 @@ Within design and art work The Golden Ratio is used to produce aesthetically ple
 
 ![Imgur](http://i.imgur.com/34FVBBv.jpg)
 
-(to be continued)
+####THE BOOK OF KELLS
+The Book of Kells named after Kells Abbey in County Meath, Ireland. It is an elaborately illustrated manuscript that was created by the Celtic Monks approximately AD 800. The books production was a meticulous and slow process to duplicate as it was all done by hand.
 
 ####GITHUB
 Getting GitHub up and running was quite confusing and intimidating at the start, then Tim helped explain all the ins and outs of the git repository web-based hosting service and it’s vocabulary, such as ‘repo’, ’forking’, ’pull’ and ‘push’. We created new accounts after learning some of the basics, and forked Tim’s ‘Hello World’ page from his account so we could modify it to create our own versions of the page.
@@ -165,6 +166,11 @@ So after looking more into typography I created some fonts, I first created them
 
 ![Imgur](http://i.imgur.com/rJmwTvq.jpg)
 
+####CHANGING THE BACKGROUND
+
+
+
+![Imgur](http://i.imgur.com/e0lc9s3.jpg)
 
 ####IXD PROJECT 02 – GROUP PRESENTATION
 
