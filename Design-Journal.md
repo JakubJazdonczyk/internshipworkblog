@@ -64,6 +64,7 @@ day included:**
 described in **“The Deepest Days”**, NATIONAL GEOGRAPHIC, April 1965. Here he tells the dramatic story of finding
 the Girona.
 
+Overall I found the Atom text editor very easy to use and understand, Also that it was so simple and quick to render the text into markdown.
 
 Week 2
 -------
