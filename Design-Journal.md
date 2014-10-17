@@ -142,7 +142,18 @@ One of the designers I researched was [Craig Mod] (http://craigmod.com/about/), 
 
 ![Imgur](http://i.imgur.com/IGVWX9l.jpg)
 
+####MY 'ABOUT ME'
 
+#HELLO THERE, I'M
+INGA HAMPTON
+
+##I’m a first year Interaction Design Student, Belfast.
+
+I currently study at the **University of Ulster**. I have a great interest in most aspects of Creative Arts; Graphical Art, Music, Traditional Art, Photography. I enjoy creating wallpapers and typography. I am greatly inspired by the works of **Josef Müller-Brockmann** and **Stefan Sagmeister**.
+
+In my spare time, I enjoy a good book and game. I also like to draw and listen to a wide range of music. When I can, I love to go to concerts, watch comedy, travel… and the list goes on!
+
+Keep an eye out, as I shall be blogging very soon,sharing my thoughts and designs with you! But in the meantime check out some of my graphic work on **Flickr**, or tweet me by clicking on the Icons below!
 
 Week 3
 -------
