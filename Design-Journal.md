@@ -77,7 +77,6 @@ This morning’s lecture initiated by looking at album covers that had been infl
 
 Another example of this is the classic work of art by the Japanese artist Hosukai which is a woodblock print which was created between 1830 - 1833 and the album artwork by the band Keane which was released in 2006, It is pretty obvious that the album artwork was inspired by the Japanese art, as the horses correspond with the shape of the waves.
 
-(pic)
 
 ####CAVE PAINTINGS
 Stick-figured paintings of animals to stencilled outlines of hands, cave paintings and illustrations found within cave walls and ceilings.  The earliest known cave painting was found approximately 40,000 years ago; which dated back to the Aurignacian period which was found in Spain in the [El Castillo Cave] (http://en.wikipedia.org/wiki/Cave_of_El_Castillo) in Cantabria. It is still unknown to us why these cave paintings where created, but I figured it was to capture their memories and experiences, also that it is suggested that they were a way of communicating to others who visited the caves and for religious and ceremonial occasions.
@@ -144,8 +143,9 @@ One of the designers I researched was [Craig Mod] (http://craigmod.com/about/), 
 
 ####MY 'ABOUT ME'
 
-#HELLO THERE, I'M
-INGA HAMPTON
+I found it quite difficult to write about myself, so I kept it short and sweet but cheery and upbeat!
+
+#HELLO THERE, I'M INGA HAMPTON
 
 ##I’m a first year Interaction Design Student, Belfast.
 
