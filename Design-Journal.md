@@ -16,7 +16,7 @@ We studied various designers such as; [Dieter Rams] (http://en.wikipedia.org/wik
 
 ####MARKDOWN 
 
-During the first week of the course we were introduced to the basics of two essential tools used for the interaction design world; [Atom] (https://atom.io/) and [Markdown] (http://en.wikipedia.org/wiki/Markdown).  Atom is a free text editor created by Github used to code such languages as Markdown. Markdown was easy enough to understand, which was pretty good as I am new coding. We were given a project to familiarise ourselves with the program. We had the task change some text into markdown to match a PDF document. 
+During the first week of the course we were introduced to the basics of two essential tools used for the interaction design world; [Atom] (https://atom.io/) and [Markdown] (http://en.wikipedia.org/wiki/Markdown).  Atom is a free text editor created by Github used to code such languages as Markdown. Markdown was easy enough to understand, which was pretty good as I am new coding. We were given a project to familiarise ourselves with the program. We had the task to change some text into markdown to match a PDF document. 
 
 PDF file we were given:
 
