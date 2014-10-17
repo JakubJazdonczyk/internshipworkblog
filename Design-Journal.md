@@ -134,6 +134,13 @@ I have been trying to educate myself html in my spare time, as I was completely 
 
 Before writing about ourselves for our pages, we had to research the self-promotion of other designers and their blogs and websites, by reading the ‘about me’ section and see how they pitched themselves to the world. 
 
+####CRAIG MOD
+
+One of the designers I researched was Craig Mod, I loved how he wrote his ‘About me’, as he comes across as informal and humble, I think this impression makes the viewer feel comfortable and relatable to him. I also like how he has put a short and simple piece of text at the top of the page as it grabs the reader’s attention, and then if you want to go more into detail about him, he has more information about himself below.
+
+![Imgur](http://i.imgur.com/IGVWX9l.jpg)
+
+
 
 Week 3
 -------
