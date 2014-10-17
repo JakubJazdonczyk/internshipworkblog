@@ -168,7 +168,7 @@ So after looking more into typography I created some fonts, I first created them
 
 ####CHANGING THE BACKGROUND
 
-
+During Tim's class we learnt how to change out backgrounds for our own pages by linking them in from flickr. I used a Photo I had taken and edited in illustrator. I think it looks pretty good so far!
 
 ![Imgur](http://i.imgur.com/e0lc9s3.jpg)
 
