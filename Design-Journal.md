@@ -105,12 +105,12 @@ Tools were created and used to help create the paintings, such as; the use of ho
 
 [Pablo Picasso] (http://www.pablopicasso.org/) was inspired and influenced by Cave Paintings to create the outstanding piece “Guernica” as you can see that he has used similar styles and abstract forms. Picasso came across the striking paintings in a cave in south-western France that dated way back to the Ice Age. He was so fascinated by the painting that he used the style in his work
 
-![Imgur]([Imgur](http://i.imgur.com/POLfb7C.jpg))
+![Imgur]([Imgur](http://i.imgur.com/POLfb7C.jpg)
 
 ####MODERN DAY PAINTERS
 Graffiti is a modern day equivalent to the thousands of years old cave paintings. One of the most well-known graffiti artists is a British artist by the name of Banksy. Also being an artist he is a political activist which brings attention to his work as he displays this in cunning ways for the world to see. One of his most recent works of art was a Mural that had been painted overnight in Clacton-on-Sea, a week away from a parliamentary byelection. It removed has it was seen as offensive and racist.
 
-![Imgur]([Imgur](http://i.imgur.com/Y3hiKq6.jpg))
+![Imgur]([Imgur](http://i.imgur.com/Y3hiKq6.jpg)
 
 ####THE GOLDEN RATIO
 
@@ -119,7 +119,7 @@ Graffiti is a modern day equivalent to the thousands of years old cave paintings
 The golden ratio was another topic that was covered during this week’s lecture, something that I had very little knowledge about. I didn’t know how much the golden ratio was used within the design world; for example in the shapes of postcards, posters, wide-screen televisions, photographs.
 Within design and art work The Golden Ratio is used to produce aesthetically pleasing, natural looking compositions. It is a mathematical rule that has been used for at least 4,000 years. The Golden ratio is a common sight in nature, such as the centre of a flower which is subject to the [Fibonacci sequence] (http://en.wikipedia.org/wiki/Fibonacci_number); the seeds start from the centre and spread outwards. Pine cones are also arranges in the similar spiral pattern. Shells and fossils are also a natural matter that follows the golden ratio; which takes on the form of the logarithmic spiral. The golden Ratio, Also known as the Golden Mean, The Golden Section and also the Greek letter of Phi, the golden rule describes the relationship between two proportions. The golden ratio follows a 1:1:61 ratio which when used results in art and design work that appears entirely in proportion. 
 
-![Imgur]([Imgur](http://i.imgur.com/Luewqek.jpg))
+![Imgur]([Imgur](http://i.imgur.com/Luewqek.jpg)
 
 ####EXAMPLES OF GOLDEN RATIO USE
 [Twitter] (https://twitter.com/) redesigned their logo In 2010, Twitter’s creative director [Doug Bowman] (http://stopdesign.com/) posted this screen grab on its Flickr page to explain how the company used the golden ratio in its redesign. 
