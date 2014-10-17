@@ -161,9 +161,14 @@ The industrialisation of the first ‘Moveable Type’ was originated and establ
 
 ‘The Gutenburg Bible’ was the first ever book to be printed using Moveable Type
 
+So after looking more into typography I created some fonts, I first created them by hand on squared paper, I then created the font on ‘FontStruct’. I based my fonts on Point, Line, and Plane.
+
+![Imgur](http://i.imgur.com/rJmwTvq.jpg)
 
 
 ####IXD PROJECT 02 – GROUP PRESENTATION
+
+- 16/10/14 - Group library meeting
 
 Week 4
 -------
