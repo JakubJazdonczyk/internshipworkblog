@@ -105,12 +105,12 @@ Tools were created and used to help create the paintings, such as; the use of ho
 
 [Pablo Picasso] (http://www.pablopicasso.org/) was inspired and influenced by Cave Paintings to create the outstanding piece “Guernica” as you can see that he has used similar styles and abstract forms. Picasso came across the striking paintings in a cave in south-western France that dated way back to the Ice Age. He was so fascinated by the painting that he used the style in his work
 
-![Imgur]([Imgur](http://i.imgur.com/POLfb7C.jpg)
+![Imgur](http://i.imgur.com/POLfb7C.jpg)
 
 ####MODERN DAY PAINTERS
 Graffiti is a modern day equivalent to the thousands of years old cave paintings. One of the most well-known graffiti artists is a British artist by the name of Banksy. Also being an artist he is a political activist which brings attention to his work as he displays this in cunning ways for the world to see. One of his most recent works of art was a Mural that had been painted overnight in Clacton-on-Sea, a week away from a parliamentary byelection. It removed has it was seen as offensive and racist.
 
-![Imgur]([Imgur](http://i.imgur.com/Y3hiKq6.jpg)
+![Imgur](http://i.imgur.com/R4bmgIc.jpg)
 
 ####THE GOLDEN RATIO
 
