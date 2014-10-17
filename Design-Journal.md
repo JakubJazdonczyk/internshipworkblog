@@ -145,7 +145,9 @@ GitHub is a Git repository web-based hosting service; it basically is a social n
 
 I have been trying to educate myself html in my spare time, as I was completely new to it when joining this course, so I kind of understood what I was undertaking. The first thing we changed was our avatars, we simply done that by copy and pasting our Twitter profile image links into the index file. The next step was to link up our social media sits and GitHub pages to the icons Tim already constructed for us, all we had to do is add in the links.
 
-Before writing about ourselves for our pages, we had to research the self-promotion of other designers and their blogs and websites, by reading the ‘about me’ section and see how they pitched themselves to the world. 
+####RESEARCHING AND MY PAGE
+
+Before writing about ourselves for our pages, we had to research the self-promotion of other designers and their blogs and websites, by reading the ‘about me’ section and see how they pitched themselves to the world. As it is very important that I set myself out to be someone who I think people would enjoy reading about, as these first few paragraphs will create the first opinions people will be judging me on.
 
 ####CRAIG MOD
 
