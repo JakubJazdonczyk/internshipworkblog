@@ -22,6 +22,12 @@ PDF file we were given:
 
 ![Imgur](http://i.imgur.com/5GDPfc3.jpg)
 
+I wanted to look into and comprehend Markdown a little better before starting this project. I learnt some of the fundamentals by going onto [GitHub Markdown basics](https://help.github.com/articles/markdown-basics/) , which made it pretty easy to understand. I also used this ‘Markdown’ syntax sheet to help me understand it better.
+
+![Imgur](http://i.imgur.com/l8r5hgG.jpg)
+
+I also researched why is it better people use Markdown for their work, I found this blog on [life hacker](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes) which was pretty interesting.
+
 This is a screen shot of my code and markdown preview on Atom after I converted the text, I rendered the plain text into, headings, emboldened text, italicised text, and listed.
 
 ![Imgur](http://i.imgur.com/QPKNOBO.jpg)
@@ -142,6 +148,11 @@ Before writing about ourselves for our pages, we had to research the self-promot
 ####CRAIG MOD
 
 One of the designers I researched was [Craig Mod] (http://craigmod.com/about/), I loved how he wrote his ‘About me’, as he comes across as informal and humble, I think this impression makes the viewer feel comfortable and relatable to him. I also like how he has put a short and simple piece of text at the top of the page as it grabs the reader’s attention, and then if you want to go more into detail about him, he has more information about himself below.
+
+####JESSICA HISCHE
+
+Jessica Hische is an inspirational typographer and graphic designer...
+
 
 ![Imgur](http://i.imgur.com/IGVWX9l.jpg)
 
