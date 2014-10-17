@@ -137,8 +137,25 @@ Before writing about ourselves for our pages, we had to research the self-promot
 
 Week 3
 -------
-* Guttenberg and Moveable Type
-* IxD Project 02 – Group Presentation
+####GUTTENBERG AND MOVEABLE TYPE
+
+This week’s lecture was about the massive impact printing press has had in the evolution and design of typography. We went through a vast amount of fonts and the typographers that created or improved them.
+
+Sites that we were recommended to look at:
+
+-	Nice Web Type
+-	Hellohappy.org
+-	Type cast
+
+
+We were also told to look at A List Apart's article on Typography & Web Fonts and The League of Moveable Type's blog, which were both pretty interesting.
+The industrialisation of the first ‘Moveable Type’ was originated and established in China by the printer Bi Sheng between 1041 and 1048. German printer Johannes Gutenberg in 1450, created the first ever westernised printing press. Books were quicker and less expensive to print so they could be mass produced which made it more accessible to people of all classes.
+
+‘The Gutenburg Bible’ was the first ever book to be printed using Moveable Type
+
+
+
+####IXD PROJECT 02 – GROUP PRESENTATION
 
 Week 4
 -------
