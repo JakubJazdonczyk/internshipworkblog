@@ -119,14 +119,14 @@ Graffiti is a modern day equivalent to the thousands of years old cave paintings
 The golden ratio was another topic that was covered during this week’s lecture, something that I had very little knowledge about. I didn’t know how much the golden ratio was used within the design world; for example in the shapes of postcards, posters, wide-screen televisions, photographs.
 Within design and art work The Golden Ratio is used to produce aesthetically pleasing, natural looking compositions. It is a mathematical rule that has been used for at least 4,000 years. The Golden ratio is a common sight in nature, such as the centre of a flower which is subject to the [Fibonacci sequence] (http://en.wikipedia.org/wiki/Fibonacci_number); the seeds start from the centre and spread outwards. Pine cones are also arranges in the similar spiral pattern. Shells and fossils are also a natural matter that follows the golden ratio; which takes on the form of the logarithmic spiral. The golden Ratio, Also known as the Golden Mean, The Golden Section and also the Greek letter of Phi, the golden rule describes the relationship between two proportions. The golden ratio follows a 1:1:61 ratio which when used results in art and design work that appears entirely in proportion. 
 
-![Imgur]([Imgur](http://i.imgur.com/Luewqek.jpg)
+![Imgur](http://i.imgur.com/Luewqek.jpg)
 
 ####EXAMPLES OF GOLDEN RATIO USE
 [Twitter] (https://twitter.com/) redesigned their logo In 2010, Twitter’s creative director [Doug Bowman] (http://stopdesign.com/) posted this screen grab on its Flickr page to explain how the company used the golden ratio in its redesign. 
 
 >"To anyone curious about #NewTwitter proportions, know that we didn't leave those ratios to chance,"
 
-![Imgur](http://i.imgur.com/LwOI4OI.jpg)
+![Imgur](http://i.imgur.com/JjbsVOk.jpg)
 
 ####STEFEN SAGMEISTER
 [Stefen Sagmeiter] (http://www.sagmeisterwalsh.com/), the eccentric designer created a logo for the Seed Media Group. In which the used the golden ratio and elements of nature (phyllotaxis) to create a simplistic yet complicated logo. By using different colours he created different variations of the logo, such as portraits for employee’s business cards. As this week I was focusing on the design fundamental point, I was very captivated by his work.
