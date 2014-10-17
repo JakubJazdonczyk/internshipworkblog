@@ -8,7 +8,7 @@ Week 1
 
 On our first lecture of the module ‘Communication design’, I found it rather interesting, as it was about the actual history of design, which I think is a very important aspect to be learning as it will help inspire and guide me to be a better designer. Throughout the lecture a vast amount was covered of what we would be doing in forthcoming weeks.
 
-We studied various designers such as; [Dieter Rams] (http://en.wikipedia.org/wiki/Dieter_Rams) and [Jonathan Ive] (https://www.apple.com/uk/pr/bios/jonathan-ive.html). Both designers were inspired by the past and they used it to define their impending projects. Dieter Rams is a German industrial designer who was popular midst the 1950’s. He believed that less is more when it came to design, which I completely agree with his statement as the most iconic products out there have a very simplistic design. If he hadn’t come across the [Ulm School of design] (http://en.wikipedia.org/wiki/Ulm_School_of_Design) he would have never fashioned such a simplistic and iconic design for Braun Radio. Jonathan Ive, the designer for the first  iMac, iPod and present Apple products hadn’t known about Dieter Rams he wouldn’t have been able to come up with such designs that we all know today. I find their work truly impeccable as it is so simplistic, which makes the products so easily understood and has made them so well known worldwide.
+We studied various designers such as; [Dieter Rams] (http://en.wikipedia.org/wiki/Dieter_Rams) and [Jonathan Ive] (https://www.apple.com/uk/pr/bios/jonathan-ive.html). Both designers were inspired by the past and they used it to define their impending projects. Dieter Rams is a German industrial designer who was popular midst the 1950’s. He believed that less is more when it came to design, which I completely agree with his statement as the most iconic products out there have a very simplistic design. If he hadn’t come across the [Ulm School of design] (http://en.wikipedia.org/wiki/Ulm_School_of_Design) he would have never fashioned such a simplistic and iconic design for Braun Radio. Jonathan Ive, the designer for the first  iMac, iPod and present [Apple](https://www.apple.com/uk/) products hadn’t known about Dieter Rams he wouldn’t have been able to come up with such designs that we all know today. I find their work truly impeccable as it is so simplistic, which makes the products so easily understood and has made them so well known worldwide.
 
 > "I believe designers should eliminate the unnecessary. That means eliminating everything that is modish because this kind of thing is only short-lived." - Deiter Rams
 
@@ -16,7 +16,8 @@ We studied various designers such as; [Dieter Rams] (http://en.wikipedia.org/wik
 
 ####MARKDOWN 
 
-During the first week of the course we were introduced to the basics of two essential tools used for the interaction design world; Atom and Markdown.  Atom is a free text editor created by Github used to code such languages as Markdown. Markdown was easy enough to understand, which was pretty good as I am new coding. We were given a project to familiarise ourselves with the program. We had the task change some text into markdown to match a PDF document. 
+During the first week of the course we were introduced to the basics of two essential tools used for the interaction design world; [Atom] (https://atom.io/) and [Markdown] (http://en.wikipedia.org/wiki/Markdown).  Atom is a free text editor created by Github used to code such languages as Markdown. Markdown was easy enough to understand, which was pretty good as I am new coding. We were given a project to familiarise ourselves with the program. We had the task change some text into markdown to match a PDF document. 
+
 PDF file we were given:
 
 ![Imgur](http://i.imgur.com/5GDPfc3.jpg)
@@ -67,10 +68,10 @@ the Girona.
 Week 2
 -------
 
-During this week’s lecture a vast amount of content was covered. When I walked out of the lecture I felt as if my brain was overflowing with new knowledge about these topics. The subjects of the lecture this week was about the historical Cave Paintings of our prehistoric selves, the golden ratio, illuminated manuscripts, and how modern day artists were inspired by previous artists work. I had very little understanding and knowledge about most of these topics so it was all new to me. 
+During this week’s lecture a vast amount of content was covered. When I walked out of the lecture I felt as if my brain was overflowing with new knowledge about these topics. The subjects of the lecture this week was about the historical [Cave Paintings] (http://en.wikipedia.org/wiki/Cave_painting) of our prehistoric selves, the [golden ratio] (http://en.wikipedia.org/wiki/Golden_ratio), [illuminated manuscripts] (http://en.wikipedia.org/wiki/Illuminated_manuscript), and how modern day artists were inspired by previous artists work. I had very little understanding and knowledge about most of these topics, so it was all new to me. 
 
 ####ALBUM COVERS
-This morning’s lecture initiated by looking at album covers that had been influenced by old artwork. One of them was the Chemical Brothers album ‘We Are the Night’ which was released in 2007; it’s album artwork was very similar to the piece Lonely Politician by the artist named Herbert Bayer in 1932.
+This morning’s lecture initiated by looking at album covers that had been influenced by old artwork. One of them was the [Chemical Brothers] (http://www.thechemicalbrothers.com/#p=home) album ‘We Are the Night’ which was released in 2007; it’s album artwork was very similar to the piece Lonely Politician by the artist named [Herbert Bayer] (http://en.wikipedia.org/wiki/Herbert_Bayer) in 1932.
 
 ![Imgur](http://i.imgur.com/qAtJC2k.jpg)
 
@@ -79,7 +80,7 @@ Another example of this is the classic work of art by the Japanese artist Hosuka
 (pic)
 
 ####CAVE PAINTINGS
-Stick-figured paintings of animals to stencilled outlines of hands, cave paintings and illustrations found within cave walls and ceilings.  The earliest known cave painting was found approximately 40,000 years ago; which dated back to the Aurignacian period which was found in Spain in the El Castillo Cave in Cantabria. It is still unknown to us why these cave paintings where created, but I figured it was to capture their memories and experiences, also that it is suggested that they were a way of communicating to others who visited the caves and for religious and ceremonial occasions.
+Stick-figured paintings of animals to stencilled outlines of hands, cave paintings and illustrations found within cave walls and ceilings.  The earliest known cave painting was found approximately 40,000 years ago; which dated back to the Aurignacian period which was found in Spain in the [El Castillo Cave] (http://en.wikipedia.org/wiki/Cave_of_El_Castillo) in Cantabria. It is still unknown to us why these cave paintings where created, but I figured it was to capture their memories and experiences, also that it is suggested that they were a way of communicating to others who visited the caves and for religious and ceremonial occasions.
 
 
 ####THE REOCCURRING THEME
@@ -95,7 +96,7 @@ Tools were created and used to help create the paintings, such as; the use of ho
 
 >"We have learned nothing in twelve thousand years."
 
-Pablo Picasso was inspired and influenced by Cave Paintings to create the outstanding piece “Guernica” as you can see that he has used similar styles and abstract forms. Picasso came across the striking paintings in a cave in south-western France that dated way back to the Ice Age. He was so fascinated by the painting that he used the style in his work
+[Pablo Picasso] (http://www.pablopicasso.org/) was inspired and influenced by Cave Paintings to create the outstanding piece “Guernica” as you can see that he has used similar styles and abstract forms. Picasso came across the striking paintings in a cave in south-western France that dated way back to the Ice Age. He was so fascinated by the painting that he used the style in his work
 
 ![Imgur](http://i.imgur.com/POLfb7C.jpg)
 
@@ -109,19 +110,19 @@ Graffiti is a modern day equivalent to the thousands of years old cave paintings
 #####1.61803398875
 
 The golden ratio was another topic that was covered during this week’s lecture, something that I had very little knowledge about. I didn’t know how much the golden ratio was used within the design world; for example in the shapes of postcards, posters, wide-screen televisions, photographs.
-Within design and art work The Golden Ratio is used to produce aesthetically pleasing, natural looking compositions. It is a mathematical rule that has been used for at least 4,000 years. The Golden ratio is a common sight in nature, such as the centre of a flower which is subject to the Fibonacci sequence; the seeds start from the centre and spread outwards. Pine cones are also arranges in the similar spiral pattern. Shells and fossils are also a natural matter that follows the golden ratio; which takes on the form of the logarithmic spiral. The golden Ratio, Also known as the Golden Mean, The Golden Section and also the Greek letter of Phi, the golden rule describes the relationship between two proportions. The golden ratio follows a 1:1:61 ratio which when used results in art and design work that appears entirely in proportion. 
+Within design and art work The Golden Ratio is used to produce aesthetically pleasing, natural looking compositions. It is a mathematical rule that has been used for at least 4,000 years. The Golden ratio is a common sight in nature, such as the centre of a flower which is subject to the [Fibonacci sequence] (http://en.wikipedia.org/wiki/Fibonacci_number); the seeds start from the centre and spread outwards. Pine cones are also arranges in the similar spiral pattern. Shells and fossils are also a natural matter that follows the golden ratio; which takes on the form of the logarithmic spiral. The golden Ratio, Also known as the Golden Mean, The Golden Section and also the Greek letter of Phi, the golden rule describes the relationship between two proportions. The golden ratio follows a 1:1:61 ratio which when used results in art and design work that appears entirely in proportion. 
 
 ![Imgur](http://i.imgur.com/AWPy2Wv.jpg)
 
 ####EXAMPLES OF GOLDEN RATIO USE
-Twitter redesigned their logo In 2010, Twitter’s creative director Doug Bowman posted this screen grab on its Flickr page to explain how the company used the golden ratio in its redesign. 
+[Twitter] (https://twitter.com/) redesigned their logo In 2010, Twitter’s creative director [Doug Bowman] (http://stopdesign.com/) posted this screen grab on its Flickr page to explain how the company used the golden ratio in its redesign. 
 
 >"To anyone curious about #NewTwitter proportions, know that we didn't leave those ratios to chance,"
 
 ![Imgur](http://i.imgur.com/LwOI4OI.jpg)
 
 ####STEFEN SAGMEISTER
-Stefen Sagmeiter, the eccentric designer created a logo for the Seed Media Group. In which the used the golden ratio and elements of nature (phyllotaxis) to create a simplistic yet complicated logo. By using different colours he created different variations of the logo, such as portraits for employee’s business cards. As this week I was focusing on the design fundamental point, I was very captivated by his work.
+[Stefen Sagmeiter] (http://www.sagmeisterwalsh.com/), the eccentric designer created a logo for the Seed Media Group. In which the used the golden ratio and elements of nature (phyllotaxis) to create a simplistic yet complicated logo. By using different colours he created different variations of the logo, such as portraits for employee’s business cards. As this week I was focusing on the design fundamental point, I was very captivated by his work.
 
 ![Imgur](http://i.imgur.com/34FVBBv.jpg)
 
