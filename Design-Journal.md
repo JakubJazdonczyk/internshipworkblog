@@ -137,7 +137,7 @@ Before writing about ourselves for our pages, we had to research the self-promot
 
 ####CRAIG MOD
 
-One of the designers I researched was Craig Mod, I loved how he wrote his ‘About me’, as he comes across as informal and humble, I think this impression makes the viewer feel comfortable and relatable to him. I also like how he has put a short and simple piece of text at the top of the page as it grabs the reader’s attention, and then if you want to go more into detail about him, he has more information about himself below.
+One of the designers I researched was [Craig Mod] (http://craigmod.com/about/), I loved how he wrote his ‘About me’, as he comes across as informal and humble, I think this impression makes the viewer feel comfortable and relatable to him. I also like how he has put a short and simple piece of text at the top of the page as it grabs the reader’s attention, and then if you want to go more into detail about him, he has more information about himself below.
 
 ![Imgur](http://i.imgur.com/IGVWX9l.jpg)
 
@@ -147,17 +147,17 @@ Week 3
 -------
 ####GUTTENBERG AND MOVEABLE TYPE
 
-This week’s lecture was about the massive impact printing press has had in the evolution and design of typography. We went through a vast amount of fonts and the typographers that created or improved them.
+This week’s lecture was about the massive impact [printing press] (http://www.bbc.co.uk/history/british/lang_gallery_05.shtml) has had in the evolution and design of typography. We went through a vast amount of fonts and the typographers that created or improved them.
 
 Sites that we were recommended to look at:
 
--	Nice Web Type
--	Hellohappy.org
--	Type cast
+-	[Nice Web Type] (http://nicewebtype.com/)
+-	[Hellohappy.org] (http://hellohappy.org/)
+-	[Type cast] (http://typecast.com/)
 
 
 We were also told to look at A List Apart's article on Typography & Web Fonts and The League of Moveable Type's blog, which were both pretty interesting.
-The industrialisation of the first ‘Moveable Type’ was originated and established in China by the printer Bi Sheng between 1041 and 1048. German printer Johannes Gutenberg in 1450, created the first ever westernised printing press. Books were quicker and less expensive to print so they could be mass produced which made it more accessible to people of all classes.
+The industrialisation of the first ‘Moveable Type’ was originated and established in China by the printer Bi Sheng between 1041 and 1048. German printer [Johannes Gutenberg] (http://www.biography.com/people/johannes-gutenberg-9323828) in 1450, created the first ever westernised printing press. Books were quicker and less expensive to print so they could be mass produced which made it more accessible to people of all classes.
 
 ‘The Gutenburg Bible’ was the first ever book to be printed using Moveable Type
 
