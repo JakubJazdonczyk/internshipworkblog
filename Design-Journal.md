@@ -133,7 +133,9 @@ Within design and art work The Golden Ratio is used to produce aesthetically ple
 
 ![Imgur](http://i.imgur.com/34FVBBv.jpg)
 
-####THE BOOK OF KELLS
+####THE DEVEOPMENT OF WRITING AND THE BOOK OF KELLS
+The development of writing forms originated from just being a pictorial, The Egyptians where the starting point, as they used pictorials to communicate, for example; the simple drawing of an eye associates to the letter ’O’ and over the years it has simplified down. Most letters in our alphabet today originated this way. Writing was first scribed onto stone tablets, but as writing developed, people started to use papyrus, as it was more durable and not as laborious. 
+
 The Book of Kells named after Kells Abbey in County Meath, Ireland. It is an elaborately illustrated manuscript that was created by the Celtic Monks approximately AD 800. The books production was a meticulous and slow process to duplicate as it was all done by hand.
 
 ![Imgur](http://i.imgur.com/VySN76z.jpg)
