@@ -143,7 +143,7 @@ One of the designers I researched was [Craig Mod] (http://craigmod.com/about/), 
 
 ####MY 'ABOUT ME'
 
-I found it quite difficult to write about myself, so I kept it short and sweet but cheery and upbeat!
+When writing about myself on my page, I found it quite difficult and didn't know where to start. I wanted to keep it short and simple but also friendly and upbeat.
 
 #HELLO THERE, I'M INGA HAMPTON
 
