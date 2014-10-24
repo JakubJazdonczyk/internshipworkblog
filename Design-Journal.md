@@ -210,7 +210,26 @@ During Tim's class we learnt how to change out backgrounds for our own pages by 
 Week 4
 -------
 
-hello 
+####A Century of Change
+The industrial revolution and how it changed and formed a new age of art and design was the subject we covered throughout this week’s lecture; this mass industrialisation around the 1900’s, pushed humanity to transition from rural to urban lives, causing the revolution which brought the introduction of machines, mass production, and new technology such as; radio transmissions, the motor vehicle, flight, the electric light bulb, photography and moving pictures. This all resulted in not only a change in people’s everyday lives, but the artwork which they created. The increasing demand for materials resulted in poor quality and effortless production, which pushed artists and designers to respond negatively against industrialisation.
+
+The five art movements that affected during this industrialisation period were; Japonism, Arts & Crafts, The Glasgow School, Art Nouveau and Vienna Secession. Before this lecture I didn’t actually know how much these movements had an impact on art and design; as characteristics of the movements can still be seen in many things that around today.
+
+####Japonism
+Japanese arts and crafts arrived into Europe around the 1850’s, this influence of Europe art became known as Japonisme. Japanese wood-block prints became a massive source of inspiration for a lot of European impressionist painters because of its bold strong colours; with flattened and lacking perspectives and shadow this attracted many artists such as Edouard Manet, Claude Monet, Edgar Degas, Vincent Van Gogh, Paul Cezanne and Henri de Toulouse-Lautrec. These Artists traversed many of the characteristics of the movement from painting to sculpture, architecture and design. Japonism would be one of my favourite movements as I like the simplicity and bold colours.
+
+![Imgur](http://i.imgur.com/cF9JYfb.jpg)
+
+####Arts and Crafts Movement
+Revolting against the industrialisation, the Arts and Crafts movement had developed; it reacted against the industrial and machine based production. The movement correlated with nature, it had simple forms with little ornamentation. The movement flourished between 1860 and 1910, it was inspired by socialist principles and led by William Morris. Recognized for his textile work, William Morris was also an Artist, illustrator, author, typographer, printer, bookbinder and medievalist. I do like this art movement, but it is tad too florally for me.
+
+![Imgur](http://i.imgur.com/YJcy6qq.jpg)
+
+####Photography and Moving Image
+Around 1826 the earliest known surviving photograph was taken by Joseph Niépce, the photo was captured on a printing plate by using a camera obscura. The photograph ‘View from the Window at le Gras’ portrays the view from an upstairs window at Niépce’s estate in France. Photography transitioned to the creation of moving images. One of the first ever moving images was created by Edward Muybridge, ‘The Horse in Motion’ was created to prove a statement that when a horse gallops, does it become airborne. It was created by a series of photographs featuring a galloping racehorse, fifty cameras were aligned along the racetrack, each camera linked up to trip wires, as the horse ran past, the string broke and an image was captured.
+
+![Imgur](http://i.imgur.com/f49UDoq.jpg)
+
 
 Week 5
 -------
