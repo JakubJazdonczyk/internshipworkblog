@@ -336,7 +336,7 @@ We created a DropBox account so we could transfer and share information that we 
 
 We arranged another meeting to gather up all the information that we had researched to come up with so we could start making the presentation, we had trouble with coming up with designers that really helped push the development of digital design, so we discussed as a group some designers we had in mind and I sketched up what artists we should do and how they should link with each other, I presented my drawn plan to my group and they agreed to follow it, so we finally came up with something that really stuck and flowed well, here is my plan and the designers names.
 
-![plan2](/images/plan 2.jpg)
+![plan2](/Images/plan 2.jpg)
 
 - John Whitney
 - Zuzana Licko
@@ -347,7 +347,7 @@ We arranged another meeting to gather up all the information that we had researc
 
 Before creating the presentation, we needed to draw how it was going to plan out, so I set to drawing a plan using all the information we gathered.
 
-![plan](/images/plan.jpg)
+![plan](/Images/plan.jpg)
 
 ####Creating the Presentation on keynote
 
@@ -375,13 +375,13 @@ I didn’t use more that 2-3 font per slide as it would make it look messy, some
 
 Throughout the slides I used muted colours, I mainly had a black background to my slides and having the main titles in yellow; yellow being the most visible colour, it grabs the attention of the audience’s eye. I used it in a small amount to draw notice to the titles, as too much can be overpowering. For some title pages such as the last slide, I used a subtle green/teal colour, as green is well known for being calming, so I thought it was a good colour to end the presentation on. Overall I had a sepia theme throughout the slides of the presentation.
 
-![colours](/images/colours.jpg)
+![colours](/Images/colours.jpg)
 
 ####Illustrations
 
 To explain what I was discussing in the presentation, I thought that some illustrations were needed; such as on the ‘technology changed our ways’ slide
 
-![illustrations](/images/illustrations.jpg) ![words](/images/words.jpg)
+![illustrations](/Images/illustrations.jpg) ![words](/Images/words.jpg)
 
 ####Humour
 
@@ -391,7 +391,7 @@ On two of the slides I used light humour, as it would make people feel more comf
 
 I added a slide line to every slide to indicate what section that was on to keep both the audience and my group on track.
 
-![lines](/images/lines.jpg)
+![lines](/Images/lines.jpg)
 
 ####The information
 
