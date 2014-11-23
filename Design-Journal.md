@@ -1,4 +1,4 @@
-AAD116
+MAAD116
 ======
 
 Design Journal for Introduction to Communication Design
@@ -14,9 +14,9 @@ We studied various designers such as; [Dieter Rams] (http://en.wikipedia.org/wik
 
 ![Imgur](http://i.imgur.com/gFn86Er.jpg)
 
-####MARKDOWN 
+####MARKDOWN
 
-During the first week of the course we were introduced to the basics of two essential tools used for the interaction design world; [Atom] (https://atom.io/) and [Markdown] (http://en.wikipedia.org/wiki/Markdown).  Atom is a free text editor created by Github used to code such languages as Markdown. Markdown was easy enough to understand, which was pretty good as I am new coding. We were given a project to familiarise ourselves with the program. We had the task to change some text into markdown to match a PDF document. 
+During the first week of the course we were introduced to the basics of two essential tools used for the interaction design world; [Atom] (https://atom.io/) and [Markdown] (http://en.wikipedia.org/wiki/Markdown).  Atom is a free text editor created by Github used to code such languages as Markdown. Markdown was easy enough to understand, which was pretty good as I am new coding. We were given a project to familiarise ourselves with the program. We had the task to change some text into markdown to match a PDF document.
 
 PDF file we were given:
 
@@ -75,7 +75,7 @@ Overall I found the Atom text editor very easy to use and understand, Also that 
 Week 2
 -------
 
-During this week’s lecture a vast amount of content was covered. When I walked out of the lecture I felt as if my brain was overflowing with new knowledge about these topics. The subjects of the lecture this week was about the historical [Cave Paintings] (http://en.wikipedia.org/wiki/Cave_painting) of our prehistoric selves, the [golden ratio] (http://en.wikipedia.org/wiki/Golden_ratio), [illuminated manuscripts] (http://en.wikipedia.org/wiki/Illuminated_manuscript), and how modern day artists were inspired by previous artists work. I had very little understanding and knowledge about most of these topics, so it was all new to me. 
+During this week’s lecture a vast amount of content was covered. When I walked out of the lecture I felt as if my brain was overflowing with new knowledge about these topics. The subjects of the lecture this week was about the historical [Cave Paintings] (http://en.wikipedia.org/wiki/Cave_painting) of our prehistoric selves, the [golden ratio] (http://en.wikipedia.org/wiki/Golden_ratio), [illuminated manuscripts] (http://en.wikipedia.org/wiki/Illuminated_manuscript), and how modern day artists were inspired by previous artists work. I had very little understanding and knowledge about most of these topics, so it was all new to me.
 
 ####ALBUM COVERS
 This morning’s lecture initiated by looking at album covers that had been influenced by old artwork. One of them was the [Chemical Brothers] (http://www.thechemicalbrothers.com/#p=home) album ‘We Are the Night’ which was released in 2007; it’s album artwork was very similar to the piece Lonely Politician by the artist named [Herbert Bayer] (http://en.wikipedia.org/wiki/Herbert_Bayer) in 1932.
@@ -117,12 +117,12 @@ Graffiti is a modern day equivalent to the thousands of years old cave paintings
 #####1.61803398875
 
 The golden ratio was another topic that was covered during this week’s lecture, something that I had very little knowledge about. I didn’t know how much the golden ratio was used within the design world; for example in the shapes of postcards, posters, wide-screen televisions, photographs.
-Within design and art work The Golden Ratio is used to produce aesthetically pleasing, natural looking compositions. It is a mathematical rule that has been used for at least 4,000 years. The Golden ratio is a common sight in nature, such as the centre of a flower which is subject to the [Fibonacci sequence] (http://en.wikipedia.org/wiki/Fibonacci_number); the seeds start from the centre and spread outwards. Pine cones are also arranges in the similar spiral pattern. Shells and fossils are also a natural matter that follows the golden ratio; which takes on the form of the logarithmic spiral. The golden Ratio, Also known as the Golden Mean, The Golden Section and also the Greek letter of Phi, the golden rule describes the relationship between two proportions. The golden ratio follows a 1:1:61 ratio which when used results in art and design work that appears entirely in proportion. 
+Within design and art work The Golden Ratio is used to produce aesthetically pleasing, natural looking compositions. It is a mathematical rule that has been used for at least 4,000 years. The Golden ratio is a common sight in nature, such as the centre of a flower which is subject to the [Fibonacci sequence] (http://en.wikipedia.org/wiki/Fibonacci_number); the seeds start from the centre and spread outwards. Pine cones are also arranges in the similar spiral pattern. Shells and fossils are also a natural matter that follows the golden ratio; which takes on the form of the logarithmic spiral. The golden Ratio, Also known as the Golden Mean, The Golden Section and also the Greek letter of Phi, the golden rule describes the relationship between two proportions. The golden ratio follows a 1:1:61 ratio which when used results in art and design work that appears entirely in proportion.
 
 ![Imgur](http://i.imgur.com/Luewqek.jpg)
 
 ####EXAMPLES OF GOLDEN RATIO USE
-[Twitter] (https://twitter.com/) redesigned their logo In 2010, Twitter’s creative director [Doug Bowman] (http://stopdesign.com/) posted this screen grab on its Flickr page to explain how the company used the golden ratio in its redesign. 
+[Twitter] (https://twitter.com/) redesigned their logo In 2010, Twitter’s creative director [Doug Bowman] (http://stopdesign.com/) posted this screen grab on its Flickr page to explain how the company used the golden ratio in its redesign.
 
 >"To anyone curious about #NewTwitter proportions, know that we didn't leave those ratios to chance,"
 
@@ -134,11 +134,13 @@ Within design and art work The Golden Ratio is used to produce aesthetically ple
 ![Imgur](http://i.imgur.com/34FVBBv.jpg)
 
 ####THE DEVEOPMENT OF WRITING AND THE BOOK OF KELLS
-The development of writing forms originated from just being a pictorial, The Egyptians where the starting point, as they used pictorials to communicate, for example; the simple drawing of an eye associates to the letter ’O’ and over the years it has simplified down. Most letters in our alphabet today originated this way. Writing was first scribed onto stone tablets, but as writing developed, people started to use papyrus, as it was more durable and not as laborious. 
+The development of writing forms originated from just being a pictorial, The Egyptians where the starting point, as they used pictorials to communicate, for example; the simple drawing of an eye associates to the letter ’O’ and over the years it has simplified down. Most letters in our alphabet today originated this way. Writing was first scribed onto stone tablets, but as writing developed, people started to use papyrus, as it was more durable and not as laborious.
 
 The Book of Kells named after Kells Abbey in County Meath, Ireland. It is an elaborately illustrated manuscript that was created by the Celtic Monks approximately AD 800. The books production was a meticulous and slow process to duplicate as it was all done by hand.
 
 ![Imgur](http://i.imgur.com/VySN76z.jpg)
+
+####What I found this week:
 
 ####GITHUB
 GitHub is a Git repository web-based hosting service; it basically is a social network for programmers. GitHub was initiated by Linus Trovolds, the creator of Linux. On Github Your work can be public for the world to see, and you can also collaborate with people and their uploads! The great thing about GitHub is that; it manages and stores a record of all the modifications that you have made, which is handy if something is accidently removed or changed, as you can just go back to what you had worked on beforehand. Getting GitHub up and running was quite confusing and intimidating at the start, then Tim helped explain all the ins and outs of the onine repository and it’s vocabulary, such as ‘repo’, ’forking’, ’pull’ and ‘push’. We created new accounts after learning some of the basics, and forked Tim’s ‘Hello World’ page from his account so we could modify it to create our own versions of the page.
@@ -197,11 +199,14 @@ So after looking more into typography I created some fonts, I first created them
 
 ![Imgur](http://i.imgur.com/rJmwTvq.jpg)
 
+####What I found this week:
+
 ####CHANGING THE BACKGROUND
 
 During Tim's class we learnt how to change out backgrounds for our own pages by linking them in from flickr. I used a Photo I had taken and edited in illustrator. I think it looks pretty good so far!
 
 ![Imgur](http://i.imgur.com/e0lc9s3.jpg)
+
 
 ####IXD PROJECT 02 – GROUP PRESENTATION
 
@@ -230,28 +235,217 @@ Around 1826 the earliest known surviving photograph was taken by Joseph Niépce,
 
 ![Imgur](http://i.imgur.com/f49UDoq.jpg)
 
+####Github
+
+This week during class tim went through how we could install and use github desktop, as it is a far easier and reliable process, all we needed to do was save our work that we had done on atom and push it.
+
+(to be continued)
 
 Week 5
 -------
 
+####Dada and Propaganda in Design
+
+
+
+####What I found this week:
+
+##The Presentation
+
+
+This week we were given the task of researching and creating a presentation within a selected group of four; this involved our groups to prepare a 10 minute presentation that would be in front of our class and lectures.
+
+My group were given the task of researching the ‘Pioneers of digital design’, so the first thing we had set out to do was a group meeting to organise and assign rolls and time.
+
+####First group meeting - 16/10/14 - Library room
+
+At the start of our first group meeting we hadn’t a clue where to start, so we first researched, ‘what is digital design?’ as we had to understand the true meaning before delving into the pioneers who initiated it. We also had to figure out the structure of the information for our presentation, so we divided the time, for each person; we all had 2 and a half minutes to talk about our selected area. We came up with a basic layout of the information for the presentation:
+
+For section one, I thought, as we didn’t really understand what digital design really consisted of, that the presentation needed to start with a basic overview of what it was. I then thought that we needed to discuss what tools people use to create digital design work, like how they transitioned from the first mac to the fantastic software that we are provided with now.
+
+For section two as a group we thought that we needed to find the main pioneers who we thought really helped push the digital design development. So for whoever chose to do that section had to research and find two artist that they thought would fit in well to the presentation.
+
+Section two consisted of two more artists that helped digital design evolve, but they needed to relate well with the previous two pioneers so it would be a journey for the audience, so it could be easily followed.
+
+For section three, the tools that they used needed to be discussed. Also a pioneer of today, maybe one that hasn’t maybe followed the others footsteps, and went in another direction. So for the person who chose to do this roll they needed to find someone who they thought fitted well for this title. They would also have to summarize the presentation at the end to insure the audience has understood the presentation the correctly and reinforce key points made throughout.
+
+
+**Section 1**
+- Introduction
+- List of what we will discuss
+- What is digital design?
+- How the technology has changed things.
+
+**Section 2**
+- Pioneer of digital design
+- Pioneer of digital design
+
+**Section 3**
+- Pioneer of digital design
+- Pioneer of digital design
+
+**Section 4**
+- The tools they used
+- Pioneer of today
+- Summary
+
+We then assigned rolls so we could start gathering information for each section.
+As team it was decided who should take on a section of the presentation, I chose to take on the first part, which consisted of the introduction, explaining what we would discuss, what was digital design, and the tools they used. We also set up a group chat using Facebook so we could contact each other.
+
+
+##Research
+
+####What is digital design?
+
+Once I had the titles of my section I needed to find information to fill them, I started by searching online ‘what is digital design?’ and see where it would take me. I stumbled upon a few websites that told me the information I needed for the brief overview.
+
+**Websites**
+- [soyouwana.com](http://www.soyouwanna.com/digital-design-1063.html)
+- [degreedirectory.org](http://degreedirectory.org/articles/What_is_a_Digital_Designer.html)
+- [Wikipedia](http://en.wikipedia.org/wiki/Graphic_design)
+- [Inkling](https://www.inkling.com/read/history-of-graphic-design-philip-meggs-5th/chapter-24/pioneers-of-digital-graphic)
+
+**Books**
+-	Meggs’ History of Graphic Design – Pioneers of digital graphic design.
+
+I had learnt that digital design is seen everywhere, everything from web design and animation, to the special effects that are used in movies. Also it is needed for architectural planning and computer-aided manufacturing. Digital designers use their creative knowledge and adept computer abilities to design visuals that are used within such technology; computers, phones, interactive screens.
+
+####How to introduce a presentation
+
+
+One thing I was really worried about, was talking in front of an audience. Even though it was our class it was still quite daunting, especially because I had to introduce our group and start of the presentation, so I searched ways to execute a presentation. These were some of the things that came up:
+
+- [Presentation structuring](http://www2.le.ac.uk/offices/ld/resources/presentation/structuring-presentation)
+- [Dummies.com](http://www.dummies.com/how-to/content/how-to-write-an-introduction-for-a-presentation.html)
+- [Englishclub.com](https://www.englishclub.com/speaking/presentations-pres.htm)
+
+####How technology changed our ways
+
+For this slide I had to research the change in the equipment that digital designers use, such as the Macintosh. Without these tools designers wouldn’t have been able to create as elaborate work as they would by hand, so as computers improved over time, the graphics had advanced so designers were able to create much more complicated work.
+
+Throughout my research I found out that Macintosh really helped this development, as before they were invented people were not able to use typography as creatively.  Macintosh was one of the first computers that had icons, Icons are seen everywhere today thanks to Macintosh.
+
+
+
+####Group meeting two - 20/10/14 - Library room
+
+We created a DropBox account so we could transfer and share information that we had gathered amongst ourselves. We discussed what we had found between the time that we had our last meeting, and any new ideas.
+
+
+####Group meeting Three - 24/10/14 - Library room
+
+We arranged another meeting to gather up all the information that we had researched to come up with so we could start making the presentation, we had trouble with coming up with designers that really helped push the development of digital design, so we discussed as a group some designers we had in mind and I sketched up what artists we should do and how they should link with each other, I presented my drawn plan to my group and they agreed to follow it, so we finally came up with something that really stuck and flowed well, here is my plan and the designers names.
+
+![plan2](/images/plan 2.jpg)
+
+- John Whitney
+- Zuzana Licko
+- April Greiman
+- Joshua Davis
+
+####Plan
+
+Before creating the presentation, we needed to draw how it was going to plan out, so I set to drawing a plan using all the information we gathered.
+
+![plan](/images/plan.jpg)
+
+####Creating the Presentation on keynote
+
+I took on the roll of creating the slides for the presentation, this was going to be interesting as it was my first time using keynote as I had invested on a new MacBook, and before I had only created slides on PowerPoint.
+
+I wanted our presentation to stand out, and the first thing I knew about slide making is that people need visuals to understand what you are trying to present to them, also don’t bombard people with a slide full text and by keeping it short and eye catching, also a little humour can help.
+
+####Typography
+
+Typography is an important aspect when creating slides, and it can really make or break it. Using too many fonts will make it messy and difficult understand, or too little will make it plain and boring. So I chose nine fonts that I thought went well together:
+
+- Frente H1
+- Press Style
+- Lobster 1.3
+- Impact Label
+- Andale Mono
+- Brush Script MT
+- Courier New
+- Antonio
+- Pacifico
+
+I didn’t use more that 2-3 font per slide as it would make it look messy, some fonts I used as title pages so people would recognise when you had moved onto a new subject.
+
+####Colours
+
+Throughout the slides I used muted colours, I mainly had a black background to my slides and having the main titles in yellow; yellow being the most visible colour, it grabs the attention of the audience’s eye. I used it in a small amount to draw notice to the titles, as too much can be overpowering. For some title pages such as the last slide, I used a subtle green/teal colour, as green is well known for being calming, so I thought it was a good colour to end the presentation on. Overall I had a sepia theme throughout the slides of the presentation.
+
+![colours](/images/colours.jpg)
+
+####Illustrations
+
+To explain what I was discussing in the presentation, I thought that some illustrations were needed; such as on the ‘technology changed our ways’ slide
+
+![illustrations](/images/illustrations.jpg) ![words](/images/words.jpg)
+
+####Humour
+
+On two of the slides I used light humour, as it would make people feel more comfortable throughout the presentation.
+
+####Slide line
+
+I added a slide line to every slide to indicate what section that was on to keep both the audience and my group on track.
+
+![lines](/images/lines.jpg)
+
+####The information
+
+Using DropBox my group members transferred their researched information to me so I could put it into the slides.
+
+
+After creating the keynote slideshow, I posted it up on DropBox for my group to see and so they could add any additional information to it and notes, also so they see if they liked it or not and if they wanted any changes made on they way it looked, but everyone was happy with the theme.
+
+####Rehearsing the presentation - 28/10/14 - 31/10/14
+
+Also rehearsing our own lines, we needed to practise as a group, for time reasons and also to see how everyone was coping with what they had to say and nerves, we had met up three times to rehearse, once in the library, class room, and before the presentation. They first time we had rehearsed we all had spoken under our 10 minute time frame, we figured this was because we were all talking to quickly, so we had to focus more on our pacing.
+
+
 Week 6
 -------
+
+Revolution and the Bauhaus
+
+####what I found this week:
 
 Week 7
 -------
 
+WWII, HfG Ulm and Modernism in the US
+
+####What I found this week:
+
 Week 8
 -------
+
+break conf
 
 Week 9
 -------
 
+####Postmodernism
+
+
+####Brackets
+Moving from Atom to Brackets. Brackets in my opinion being a far better and cleaner software to do my html and markdown.
+
+####What I found this week:
+
 Week 10
 -------
+
+####What I found this week:
 
 Week 11
 -------
 
+####What I found this week:
+
 Week 12
 -------
 
+####What I found this week:
