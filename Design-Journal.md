@@ -14,3 +14,9 @@ My works
 ![alergy.ai](health-in-brazil.png) 
 
 ![alergy.ai](brazilinfo2.png)
+
+![alergy.ai](brazilinfo3.png)
+
+![alergy.ai](icon@.png)
+
+![alergy.ai](doc&nur.png)
