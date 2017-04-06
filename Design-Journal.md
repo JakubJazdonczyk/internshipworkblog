@@ -6,4 +6,4 @@ Design Journal for Introduction to Design
 
 week one
 ======
-![Health in Brazil](alergy.ai)
+![alergy.ai](alergy.ai)
