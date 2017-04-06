@@ -6,4 +6,4 @@ Design Journal for Introduction to Design
 
 week one
 ======
-dfdfddfd
+![Health in Brazil](/images/brazil info v2)
