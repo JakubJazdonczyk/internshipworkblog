@@ -1,8 +1,5 @@
-Design Blog
+Internship
 ======
-
-Design Journal for Introduction to Design
-
 
 
 Internship in Clinishare
